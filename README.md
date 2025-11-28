@@ -1,6 +1,23 @@
-<!-- Banner -->
+<!-- Matrix / Hacker Banner -->
+<p align="center">
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Computer-screen-code-glitch-animation-gif-background-free.gif"
+    alt="Matrix digital rain"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">Hi there, I'm George 👋</h1>
-<h3 align="center">Computer Engineering @ UIUC • Hardware Systems • Embedded • FPGA & Digital Design</h3>
+
+<!-- Realistic Typing Animation with Mistypes + Backspace -->
+<p align="center">
+  <img
+    alt="Typing SVG"
+    src="https://typingsvg.vercel.app/api/svg?text=Computer+Enginering+%40+UIUC%3BHardware+Systems%3BEmbedded+Systems%3BFPGA+and+Digital+Design%3BComputer+Engineering+%40+UIUC+%7C+Hardware+Systems+%7C+Embedded+%7C+FPGA+and+Digital+Design&width=1400&height=80&fontSize=22&color=%2300ff00&backgroundColor=%23000000&cursorStyle=block&typingSpeed=0.12&deleteSpeed=0.08&deletionBehavior=backspace&center=true&vCenter=true"
+  />
+</p>
+
+<h3 align="center">Hardware Systems • Embedded • FPGA & Digital Design</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Engineering-UIUC-orange?style=for-the-badge" />
@@ -8,13 +25,20 @@
   <img src="https://img.shields.io/badge/FPGA%20Enthusiast-Yes-brightgreen?style=for-the-badge" />
 </p>
 
----
+<!-- Thin Green Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 🚀 About Me  
+
 I'm a Computer Engineering student at **UIUC** who likes working where **hardware meets software**.  
 Most of my time goes into **FPGAs**, **embedded systems**, **digital design**, and building tools that make engineering workflows smoother.
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 📚 Coursework @ UIUC
 
@@ -25,7 +49,7 @@ DC circuits • KCL/KVL • Thevenin & Norton • IV characteristics • Diodes 
 Binary & number representation • Boolean algebra • Combinational & sequential logic • FSM design • Registers & memory • LC-3 / von Neumann model • Intro C programming • From gates → datapaths → machine code
 
 ### ECE 220 – Computer Systems & Programming  
-C programming in depth • Pointers & memory layout • Stacks/frames & calling conventions • Recursion • Linked lists & basic data structures • Manual reasoning from C → assembly • Debugging with tools like GDB
+C programming in depth • Pointers & memory layout • Stacks/frames & calling conventions • Recursion • Linked lists & basic data structures • Manual reasoning from C → assembly • Debugging with standard tools
 
 ### ECE 210 – Analog Signal Processing  
 LTI systems • Differential-equation models of circuits • Laplace transform & transfer functions • Convolution & impulse response • Phasors & sinusoidal steady state • Bode/frequency response • Fourier series/transform • Filters & AM radio concepts
@@ -36,17 +60,23 @@ SystemVerilog on FPGAs • Combinational & sequential circuits • Hazards, timi
 ### CS 225 – Data Structures & Algorithms  
 Big-O analysis • Linked lists, dynamic arrays, trees, tries, heaps • Hash tables • Graphs (BFS/DFS, shortest paths) • Sorting algorithms • Memory-conscious data structure design & implementation in C++
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 🌱 Spring 2026 (Planned)
 
 ### ECE 391 – Computer Systems Engineering  
-Systems programming • x86 + C interaction • Interrupts & exceptions • Context switching & multitasking • Synchronization (mutexes, semaphores, race conditions) • Virtual memory • File systems • Device programming • Building simple OS components
+Systems programming • RISC-V + C interaction • Interrupts & exceptions • Context switching & multitasking • Synchronization (mutexes, semaphores, race conditions) • Virtual memory • File systems • Device programming • OS abstractions
 
 ### ECE 408 – Applied Parallel Programming  
 CUDA-style parallel programming • GPU-style architectures • Parallel patterns (map, reduce, scan, convolution) • Tiled algorithms • Performance analysis & profiling • Designing and optimizing parallel applications
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 🔭 What I'm Working On
 
@@ -54,7 +84,7 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
   Django REST backend + JS frontend for building multi-year UIUC degree plans and checking requirements automatically.
 
 - 🧠 **DDR3 Integration into a MicroBlaze SoC**  
-  Working on integrating DDR3 memory into a MicroBlaze-based system to support more complex games and applications.
+  Integrating DDR3 memory into a MicroBlaze-based system to support more complex games and applications.
 
 - 🎮 **Donkey Kong FPGA SoC – Framebuffer Upgrade**  
   Migrating a Donkey Kong FPGA recreation to use a **framebuffer-based graphics pipeline** for smoother 60 Hz VGA rendering and more complex visuals.
@@ -62,7 +92,10 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 - 🧮 **Custom Digital Designs on FPGA**  
   16-bit SLC-3-style RISC CPU, 8-bit 2’s complement serial multiplier, and a bit-serial logic processor implemented and tested on a Spartan-7 board.
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 🛠️ Tech Stack & Tooling
 
@@ -92,58 +125,65 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 - AXI-based SoC integration  
 - Signals, Fourier/Laplace, and filters  
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 🔧 Project Highlights
 
 ### 🎮 Donkey Kong FPGA SoC (SystemVerilog + C)
 - MicroBlaze-based **System-on-Chip** running a Donkey Kong-style game  
 - Custom sprite rendering engine, collision logic, animation timers, and audio PWM  
-- Currently transitioning rendering to a **framebuffer architecture** for smoother VGA output
+- Transitioning to a **framebuffer architecture** for smoother VGA output
 
 ### 🧠 16-bit RISC Processor  
-- Designed and implemented a 16-bit RISC CPU (SLC-3 subset) on FPGA  
+- 16-bit RISC CPU (SLC-3-style) on FPGA  
 - Datapath + ALU + register file + control FSM  
 - Runs and validates custom assembly programs
 
 ### 🔢 8-bit Serial Multiplier  
 - 2’s complement 8-bit multiplier using a serial add-shift algorithm  
-- Implemented and verified timing entirely in SystemVerilog/Vivado
+- Implemented and timing-verified in SystemVerilog/Vivado
 
 ### 🧮 Bit-Serial Logic Processor  
-- Bit-serial logic engine supporting multiple logic operations (AND/OR/XOR/etc.)  
-- FSM-based control handling shifting, operation selection, and result output
+- Bit-serial logic engine with multiple logic ops (AND/OR/XOR/etc.)  
+- FSM-based control handling shifting, operation selection, and output
 
 ### 🌐 IlliniPlan – Academic Planner  
 - Django REST backend with a JS frontend  
 - Parsed thousands of catalog entries into JSON for course search & plan validation  
-- Interactive multi-year planner with tracking for credits and requirements
+- Interactive multi-year planner with credit + requirement tracking
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 🎯 Project Bucket List
 
-Stuff I really want to build:
-
-- 🖥️ **C compiler** (eventually aiming at a small ISA / my own CPU)  
-- 🧠 **Train an AI to play Geometry Dash** (reinforcement learning + custom environment)  
+- 🖥️ **A C compiler** (eventually targeting a custom or SLC-3-like ISA)  
+- 🧠 **Train an AI to play Geometry Dash** (RL + custom environment)  
 - 👁️ **Computer vision projects** – lane detection, object tracking, classic CV + modern ML  
 - ⚙️ **Custom FPGA accelerator** for a small ML or DSP workload  
-- 🧵 **Low-level systems tools** (e.g., toy OS components, profilers, or debuggers)
+- 🧵 **Low-level systems tools** (toy OS pieces, profilers, debuggers, etc.)
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  
   <img src="https://github-readme-stats.vercel.app/api?username=gAngelov24&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gAngelov24&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
 </div>
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 💬 Ask Me About
 - FPGA design & SystemVerilog  
@@ -152,7 +192,10 @@ Stuff I really want to build:
 - C/C++ and low-level debugging  
 - Building tools that help engineers reason about systems
 
----
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+</p>
 
 ## 📫 Connect With Me
 <p>
