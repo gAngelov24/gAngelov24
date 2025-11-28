@@ -204,21 +204,7 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
   />
 </p>
 
-## 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gAngelov24&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gAngelov24&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
-<!-- Divider -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
-    alt="Divider"
-    width="100%"
-  />
-</p>
 
 ## 💬 Ask Me About
 - FPGA design & SystemVerilog  
