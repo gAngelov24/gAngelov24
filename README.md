@@ -189,7 +189,8 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 ## 🎯 Project Bucket List
 
-- 🖥️ **A C compiler** (eventually targeting a custom or SLC-3-like ISA)  
+- 🌐 **Personal Portfolio** (using React, TS, and Python)
+- 🖥️ **C compiler** (eventually targeting a custom or SLC-3-like ISA)  
 - 🧠 **Train an AI to play Geometry Dash** (RL + custom environment)  
 - 👁️ **Computer vision projects** – lane detection, object tracking, classic CV + modern ML  
 - ⚙️ **Custom FPGA accelerator** for a small ML or DSP workload  
@@ -234,4 +235,4 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 ---
 
-⭐️ *Thanks for stopping by — feel free to check out my projects!*  
+⭐️ *Thanks for stopping by — feel free to check out my projects or reach out to me if you have any cool ideas!*  
