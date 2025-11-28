@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi there, I'm George 👋</h1>
 
-<!-- Realistic Typing Animation with Mistypes + Backspace -->
+<!-- Typing Animation -->
 <p align="center">
   <img
     alt="Typing SVG"
@@ -22,22 +22,29 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Engineering-UIUC-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Hardware%20%26%20Embedded-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FPGA%20Enthusiast-Yes-brightgreen?style=for-the-badge" />
 </p>
 
-<!-- Thin Green Divider -->
+<!-- Thin Green Gradient Divider (fade in/out) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 🚀 About Me  
 
-I'm a Computer Engineering student at **UIUC** who likes working where **hardware meets software**.  
-Most of my time goes into **FPGAs**, **embedded systems**, **digital design**, and building tools that make engineering workflows smoother.
+I'm a Computer Engineering student at **UIUC** interested in building systems that bridge **hardware and software**.  
+I enjoy working with **FPGAs**, **embedded systems**, and **digital design**, and I created **IlliniPlan** to give UIUC students a clearer, more accessible way to plan their coursework and long-term paths.
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 📚 Coursework @ UIUC
@@ -62,7 +69,11 @@ Big-O analysis • Linked lists, dynamic arrays, trees, tries, heaps • Hash ta
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 🌱 Spring 2026 (Planned)
@@ -75,7 +86,11 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 🔭 What I'm Working On
@@ -94,7 +109,11 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 🛠️ Tech Stack & Tooling
@@ -127,7 +146,11 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 🔧 Project Highlights
@@ -157,7 +180,11 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 🎯 Project Bucket List
@@ -170,7 +197,11 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 📈 GitHub Stats
@@ -182,7 +213,11 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 💬 Ask Me About
@@ -190,11 +225,15 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 - MicroBlaze / SoC integration  
 - VGA + framebuffer graphics on FPGA  
 - C/C++ and low-level debugging  
-- Building tools that help engineers reason about systems
+- Full-stack tools for students (like IlliniPlan)
 
 <!-- Divider -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00ff00&height=2&section=footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00ff00,100:000000&height=2&section=footer"
+    alt="Divider"
+    width="100%"
+  />
 </p>
 
 ## 📫 Connect With Me
