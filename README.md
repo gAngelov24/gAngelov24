@@ -1,15 +1,15 @@
 <!-- Matrix / Hacker Banner -->
-<p align="center">
+<!-- <p align="center">
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Computer-screen-code-glitch-animation-gif-background-free.gif"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU3cGRtYWw0c3A0MGJqbTl5NWFsczV2ZTVzYWZsc2Z5eGI4azE3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WoD6JZnwap6s8/giphy.gif"
     alt="Matrix digital rain"
-    width="100%"
+    width="50%"
   />
-</p>
+</p> -->
 
-<h1 align="center">Hi there, I'm George 👋</h1>
+<h1 align="center">Hi there, I'm George Angelov</h1>
 
-<!-- Typing Animation -->
+<!-- Typing Animation: made using typingsvg.vercel.app and pasting URL -->
 <p align="center">
   <img
     alt="Typing SVG"
@@ -235,4 +235,4 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 ---
 
-⭐️ *Thanks for stopping by — feel free to check out my projects or reach out to me if you have any cool ideas!*  
+*Thanks for stopping by — feel free to check out my projects or reach out to me if you have any cool ideas!*  
