@@ -36,7 +36,7 @@
 ## 🚀 About Me  
 
 I'm a Computer Engineering student at **UIUC** interested in building systems that bridge **hardware and software**.  
-I enjoy working with **FPGAs**, **embedded systems**, and **digital design**, and I created **IlliniPlan** to give UIUC students a clearer, more accessible way to plan their coursework and long-term paths.
+I enjoy working with **FPGAs**, **embedded systems**, and **digital design**, and I created **UIUC Course Planner** to give UIUC students a clearer, more accessible way to plan their coursework and long-term paths.
 
 <!-- Divider -->
 <p align="center">
