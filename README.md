@@ -95,7 +95,7 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 ## 🔭 What I'm Working On
 
-- 🧭 **IlliniPlan – Full-Stack Academic Planner**  
+- 🧭 **UIUC Course Planner – Full-Stack Academic Planner**  
   Django REST backend + JS frontend for building multi-year UIUC degree plans and checking requirements automatically.
 
 - 🧠 **DDR3 Integration into a MicroBlaze SoC**  
@@ -173,7 +173,7 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 - Bit-serial logic engine with multiple logic ops (AND/OR/XOR/etc.)  
 - FSM-based control handling shifting, operation selection, and output
 
-### 🌐 IlliniPlan – Academic Planner  
+### 🌐 UIUC Course Planner – Academic Planner  
 - Django REST backend with a JS frontend  
 - Parsed thousands of catalog entries into JSON for course search & plan validation  
 - Interactive multi-year planner with credit + requirement tracking
