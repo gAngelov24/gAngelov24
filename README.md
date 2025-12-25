@@ -13,7 +13,7 @@
 <p align="center">
   <img
     alt="Typing SVG"
-    src="https://typingsvg.vercel.app/api/svg?text=Computer+Enginering+%40+UIUC%3BSoftware+Engineering%3BFrontend+and+Backend%3BLow+Level+and+FPGA+Systems%3BComputer+Engineering+%40+UIUC+%7C+Software+Engineering+%7C+Embedded+%7C+Frontend+and+Backend+Design&width=1400&height=80&fontSize=22&color=%2300ff00&backgroundColor=%23000000&cursorStyle=block&typingSpeed=0.12&deleteSpeed=0.08&deletionBehavior=backspace&center=true&vCenter=true"
+    src="https://typingsvg.vercel.app/api/svg?text=Computer+Enginering+%40+UIUC%3BFocus:+Software+Engineering%3BFrontend+and+Backend+Design%3BLow+Level+and+FPGA+Systems%3BComputer+Engineering+%40+UIUC+%7C+Software+Engineering+%7C+Embedded+%7C+Frontend+and+Backend+Design&width=1500&height=80&fontSize=22&color=%2300ff00&backgroundColor=%23000000&cursorStyle=block&typingSpeed=0.12&deleteSpeed=0.08&deletionBehavior=backspace&center=true&vCenter=true"
   />
 </p>
 
