@@ -13,15 +13,15 @@
 <p align="center">
   <img
     alt="Typing SVG"
-    src="https://typingsvg.vercel.app/api/svg?text=Computer+Enginering+%40+UIUC%3BHardware+Systems%3BEmbedded+Systems%3BFPGA+and+Digital+Design%3BComputer+Engineering+%40+UIUC+%7C+Hardware+Systems+%7C+Embedded+%7C+FPGA+and+Digital+Design&width=1400&height=80&fontSize=22&color=%2300ff00&backgroundColor=%23000000&cursorStyle=block&typingSpeed=0.12&deleteSpeed=0.08&deletionBehavior=backspace&center=true&vCenter=true"
+    src="https://typingsvg.vercel.app/api/svg?text=Computer+Enginering+%40+UIUC%3BSoftware+Engineering%3BFrontend+and+Backend%3BLow+Level+and+FPGA+Systems%3BComputer+Engineering+%40+UIUC+%7C+Software+Engineering+%7C+Embedded+%7C+Frontend+and+Backend+Design&width=1400&height=80&fontSize=22&color=%2300ff00&backgroundColor=%23000000&cursorStyle=block&typingSpeed=0.12&deleteSpeed=0.08&deletionBehavior=backspace&center=true&vCenter=true"
   />
 </p>
 
-<h3 align="center">Hardware Systems • Embedded • FPGA & Digital Design</h3>
+<h3 align="center">Software Engineering • Systems • Full-Stack • Low-Level Computing</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Computer%20Engineering-UIUC-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Hardware%20%26%20Embedded-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software%20%26%20Systems-blue?style=for-the-badge" />
 </p>
 
 <!-- Thin Green Gradient Divider (fade in/out) -->
@@ -35,8 +35,8 @@
 
 ## 🚀 About Me  
 
-I'm a Computer Engineering student at **UIUC** interested in building systems that bridge **hardware and software**.  
-I enjoy working with **FPGAs**, **embedded systems**, and **digital design**, and I created **UIUC Course Planner** to give UIUC students a clearer, more accessible way to plan their coursework and long-term paths.
+I'm a Computer Engineering student at UIUC, interested in building a wide range of systems, from hardware to software and those in between.
+What really interests me is building projects that can help people. The primary purpose of my UIUC Course Tracker is to provide UIUC students with an easier way to plan their schedules without any doubt of missing credits. I also want to expand the website to allow students to post and share schedules for even more student-to-student interaction. I also share all my interview-style coding prep in a public repository, including explanations of the approaches and algorithms used, with the goal of making technical learning more accessible and transparent.
 
 <!-- Divider -->
 <p align="center">
@@ -95,17 +95,17 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 ## 🔭 What I'm Working On
 
-- 🧭 **UIUC Course Planner – Full-Stack Academic Planner**  
-  Django REST backend + JS frontend for building multi-year UIUC degree plans and checking requirements automatically.
+- 🌐 **UIUC Course Planner – Full-Stack Academic Planning Platform**  
+  Production-style web application using **Next.js, TypeScript, Django REST, PostgreSQL**, and **Docker** to support multi-year degree planning, drag-and-drop scheduling, and automated requirement tracking.
 
-- 🧠 **DDR3 Integration into a MicroBlaze SoC**  
-  Integrating DDR3 memory into a MicroBlaze-based system to support more complex games and applications.
+- 🧠 **Backend & Systems Enhancements**  
+  Improving API structure, database models, caching behavior, and frontend–backend synchronization to support more complex academic rules and scalability.
 
-- 🎮 **Donkey Kong FPGA SoC – Framebuffer Upgrade**  
-  Migrating a Donkey Kong FPGA recreation to use a **framebuffer-based graphics pipeline** for smoother 60 Hz VGA rendering and more complex visuals.
+- 🎮 **Donkey Kong FPGA SoC – Systems Programming Focus**  
+  Enhancing a MicroBlaze-based SoC with framebuffer-backed graphics, tighter timing control, and improved memory integration.
 
-- 🧮 **Custom Digital Designs on FPGA**  
-  16-bit SLC-3-style RISC CPU, 8-bit 2’s complement serial multiplier, and a bit-serial logic processor implemented and tested on a Spartan-7 board.
+- ⚙️ **Low-Level & Digital Systems Projects**  
+  Custom RISC CPU, serial multiplier, and logic processors implemented on FPGA to deepen understanding of computer architecture and performance.
 
 <!-- Divider -->
 <p align="center">
@@ -118,22 +118,24 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 ## 🛠️ Tech Stack & Tooling
 
-### Hardware / Low-Level
+### Software & Systems
 <p>
-  <img src="https://img.shields.io/badge/SystemVerilog-4B4B4B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FPGAs-Xilinx-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vivado-FAFA33?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vitis-0A5E2A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MicroBlaze-00457C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
 </p>
 
-### Software
+### Hardware & Low-Level
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-9C033A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SystemVerilog-4B4B4B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FPGAs-Xilinx-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vivado-FAFA33?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MicroBlaze-00457C?style=for-the-badge" />
 </p>
 
 ### Systems & Concepts
@@ -155,6 +157,12 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 ## 🔧 Project Highlights
 
+### 🌐 UIUC Course Planner – Full-Stack Web Application
+- Full-stack academic planning platform built with **Next.js (TypeScript)** and **Django REST**, backed by **PostgreSQL**
+- Interactive drag-and-drop multi-year planning with automated credit and requirement validation
+- Designed REST APIs, relational data models, and frontend caching to ensure consistency and performance
+- Containerized development using **Docker Compose** for reproducibility
+
 ### 🎮 Donkey Kong FPGA SoC (SystemVerilog + C)
 - MicroBlaze-based **System-on-Chip** running a Donkey Kong-style game  
 - Custom sprite rendering engine, collision logic, animation timers, and audio PWM  
@@ -165,18 +173,10 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 - Datapath + ALU + register file + control FSM  
 - Runs and validates custom assembly programs
 
-### 🔢 8-bit Serial Multiplier  
-- 2’s complement 8-bit multiplier using a serial add-shift algorithm  
-- Implemented and timing-verified in SystemVerilog/Vivado
-
 ### 🧮 Bit-Serial Logic Processor  
 - Bit-serial logic engine with multiple logic ops (AND/OR/XOR/etc.)  
 - FSM-based control handling shifting, operation selection, and output
 
-### 🌐 UIUC Course Planner – Academic Planner  
-- Django REST backend with a JS frontend  
-- Parsed thousands of catalog entries into JSON for course search & plan validation  
-- Interactive multi-year planner with credit + requirement tracking
 
 <!-- Divider -->
 <p align="center">
@@ -208,11 +208,11 @@ CUDA-style parallel programming • GPU-style architectures • Parallel pattern
 
 
 ## 💬 Ask Me About
-- FPGA design & SystemVerilog  
-- MicroBlaze / SoC integration  
-- VGA + framebuffer graphics on FPGA  
-- C/C++ and low-level debugging  
-- Full-stack tools for students (like IlliniPlan)
+- Full-stack and backend system design  
+- REST APIs, databases, and application architecture  
+- C/C++ systems programming and debugging  
+- Performance-aware software design  
+- Hardware–software co-design and FPGA-backed systems
 
 <!-- Divider -->
 <p align="center">
